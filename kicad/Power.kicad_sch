@@ -4,6 +4,11 @@
 	(generator_version "9.0")
 	(uuid "2ee75eff-62ba-47ab-838a-770cd0a94ca2")
 	(paper "A4")
+	(title_block
+		(title "Painter HAT Power Supply")
+		(rev "v2")
+		(company "vividsystem")
+	)
 	(lib_symbols
 		(symbol "Device:C"
 			(pin_numbers
