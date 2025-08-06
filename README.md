@@ -1,4 +1,5 @@
 # painter-hat
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/93972c47654e86dd9c46fce587b08a346862cb82_painter-hat.png"/>
 A stepper motor hat that sucks less.
 
 Disclaimer: I haven't gotten the possibility to actually manufacture this yet. Therefore it might not work
