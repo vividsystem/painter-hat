@@ -37,8 +37,8 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.65,
-          "height": 1.2,
+          "drill": 0.799998,
+          "height": 2.0,
           "width": 1.2
         },
         "silk_line_width": 0.1,
@@ -58,7 +58,16 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "annular_width|86060000|125490000|18f8e80b-0c34-448d-8688-084504bbc6f1|00000000-0000-0000-0000-000000000000",
+          "USB-C Port"
+        ],
+        [
+          "annular_width|91860000|125490000|cbd44a52-e7cd-4957-87fc-afd3218f55f2|00000000-0000-0000-0000-000000000000",
+          "USB-C Port"
+        ]
+      ],
       "meta": {
         "version": 2
       },
@@ -139,7 +148,7 @@
         "min_track_width": 0.1,
         "min_via_annular_width": 0.1,
         "min_via_diameter": 0.5,
-        "solder_mask_to_copper_clearance": 0.0,
+        "solder_mask_to_copper_clearance": 0.005,
         "use_height_for_length_calcs": true
       },
       "teardrop_options": [
@@ -190,6 +199,7 @@
         0.0,
         0.254,
         0.3048,
+        0.44,
         0.508,
         0.75,
         1.905
