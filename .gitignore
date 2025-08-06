@@ -1,2 +1,12 @@
 # i have git for versioning
-kicad/painter_hat_backups/
+
+*
+
+!README.md
+!code/
+!painter-hat-pcb-*
+!schematic.pdf
+!kicad/painter-hat.kicad_{pcb,prl,pro,sch}
+!kicad/Power.kicad_sch
+!bom.csv
+!bom-jlcpcb-optimised.ods
