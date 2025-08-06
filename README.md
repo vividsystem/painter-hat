@@ -1,6 +1,8 @@
 # painter-hat
+<div style="display: flex; flex-direction: row;">
 <img src="https://hackatime-badge.hackclub.com/U097J2YPW1H/painter-hat"/>
 <img src="https://hackatime-badge.hackclub.com/U097J2YPW1H/Power"/>
+</div>
 <img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/32814693a7429157070cbaf002cda52a4ebbe66b_painter-hat.png"/>
 A stepper motor hat that sucks less.
 
