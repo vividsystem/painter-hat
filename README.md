@@ -26,11 +26,11 @@ Features: <br>
 ### Top Layer - Signal
 ![PCB Top](images/painter-hat-pcb-top.png)
 ### 1st Internal Layer - Ground 
-![PCB Top](images/painter-hat-pcb-gnd.png)
+![PCB GND](images/painter-hat-pcb-gnd-plane.png)
 ### 2nd Internal Layer - Power 
-![PCB Top](images/painter-hat-pcb-power.png)
+![PCB Power](images/painter-hat-pcb-power-plane.png)
 ### Bottom Layer - Signal with GND Copper Fill 
-![PCB Top](images/painter-hat-pcb-power.png)
+![PCB Bottom](images/painter-hat-pcb-bottom.png)
 
 
 ## Motivation 
