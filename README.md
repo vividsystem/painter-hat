@@ -9,11 +9,11 @@
 
 Disclaimer: I haven't gotten the possibility to actually manufacture this yet. Therefore it might not work
 
-Features: <br>
-    * dual stepper-motor driver control <br>
-    * 100W USB-C PD to power motors and raspberry pi <br>
-    * support for A4988, TMC2208, TMC2209, etc. driver modules including UART control <br>
-    * meant as a replacement for [Waveshare Stepper Motor HAT](https://www.waveshare.com/wiki/Stepper_Motor_HAT)<sup>*</sup> <br><br><br>
+Features:
+* dual stepper-motor driver control <br>
+* 100W USB-C PD to power motors and raspberry pi <br>
+* support for A4988, TMC2208, TMC2209, etc. driver modules including UART control <br>
+* meant as a replacement for [Waveshare Stepper Motor HAT](https://www.waveshare.com/wiki/Stepper_Motor_HAT)<sup>*</sup> <br><br><br>
 
 
 <sup>*</sup>not completely hot-swap. you will have to use a different firmware
