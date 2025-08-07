@@ -40,6 +40,9 @@ new HAT even when one of the two drivers is still working.
 ### Bottom Layer - Signal with GND Copper Fill 
 ![PCB Bottom](images/painter-hat-pcb-bottom.png)
 
+## DIY it
+It is about 155.58€ for the minimum PCBA PCB amount on JLCPCB.
+
 ## Firmware
 Currently outdated!
 
