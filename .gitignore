@@ -4,10 +4,11 @@
 
 !README.md
 !code/
-!painter-hat-pcb-*
+!code/**/*
 !schematic.pdf
 !kicad/painter-hat.kicad_{pcb,prl,pro,sch}
 !kicad/Power.kicad_sch
 !bom.csv
 !bom-jlcpcb-optimised.ods
-!images
+!images/
+!images/**/*
